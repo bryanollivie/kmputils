@@ -5,6 +5,9 @@ plugins {
     alias(libs.plugins.composeCompiler)
 }
 
+group = "com.bryanollivie.kmputils"
+version = "1.0.0"
+
 kotlin {
     androidTarget {
         compilerOptions {

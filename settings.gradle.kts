@@ -1,4 +1,4 @@
-rootProject.name = "KMPUtils"
+rootProject.name = "kmputils-root"
 
 pluginManagement {
     repositories {
